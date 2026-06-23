@@ -1,0 +1,5 @@
+env/
+vecteurs/
+.env
+__pycache__/
+*.pyc
