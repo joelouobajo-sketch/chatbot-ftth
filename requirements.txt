@@ -1,0 +1,13 @@
+pdfplumber
+python-docx
+python-pptx
+pdf2image
+pytesseract
+langchain
+langchain-community
+langchain-text-splitters
+sentence-transformers
+chromadb
+groq
+python-dotenv
+streamlit
